@@ -47,3 +47,6 @@ My Approach was:
 1. Clean and preprocess the 2 datasets
 2. Use two specialized pandas package mitosheet & profiling for further exploratory analysis
 3. Then use the procesed datasets for final visualization in Tableau
+
+Find The Tableau Visual here: 
+https://public.tableau.com/views/AirbnbDublinMarketAnalysis/Story1?:language=en-US&:display_count=n&:origin=viz_share_link

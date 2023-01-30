@@ -1,11 +1,13 @@
 # Airbnb-Dublin-Market-Analysis
 
-A new city manager for Airbnb has started in Dublin and wants to better understand:
+This was a project where I worked on an Airbnb dataset. But unlike the typical property rating and review score prediction projects, in this one, I focused more on figuring out the host and guest relationship dynamics for a specific destination Dublin, Ireland. I tried to put up a storyboard in Tableau with the findings that would highlight key aspects from a managerial perspective to design a marketing campaign that may result in increased booking
 
-- what guests are searching for in Dublin,
-- which inquiries hosts tend to accept.
+- What guests are searching for in Dublin;
+- Which inquiries hosts tend to accept;
+- When is the most high-demand time for Dublin Airbnb; 
+- The interaction dynamics between guests & hosts.
 
-Based on the findings the new city manager will try to boost the number and quality of hosts in Dublin to fit the demands from guests. The goal of this challenge is to analyze, understand, visualize, and communicate the demand / supply in the market. For example you may want to look at the breakdown of start date day of the week, or number of nights, or room type that is searched for, and how many hosts accepted the reservation. In particular, we are interested in:
+The goal of this challenge is to analyze, understand, visualize, and communicate the demand / supply in the market. For example you may want to look at the breakdown of start date day of the week, or number of nights, or room type that is searched for, and how many hosts accepted the reservation. In particular, we are interested in:
 
 - what the gaps are between guest demand and host supply that the new city manager could plug to increase the number of bookings in Dublin,
 - what other data would be useful to have to deepen the analysis and understanding.
